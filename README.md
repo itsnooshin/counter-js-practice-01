@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/93255365/199257485-dd8f3fdb-7e18-42d6-
 
 
 # overview
-The project is part of the freecodecamp project. For projects with Javascript, I didn't know how to begin, so I started with freecodecamp and used these tutorials. In this project, There are three options: increasing, resetting, and decreasing. The number will increase when you click on decreasing, and it will also increase when you click on resetting all numbers to 0 and then decreasing the number. For each position, I also add three colors: green when the number is greater than zero, blue when it's zero, and red when it's decreasing.
+The project is part of the freecodecamp project. For projects with Javascript, I didn't know how to begin, so I started with freecodecamp and used these tutorials. In this project, There are three options: increasing, resetting, and decreasing. The number will increase when you click on the increase button. It will also increase the number. By clicking on the reset button, all numbers are converted to 0, and by clicking on the decrease button, the number is decreased. For each position, I also add three colors: green when the number is greater than zero, blue when it's zero, and red when it's a negative number.
 
 
  # Built with
