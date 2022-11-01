@@ -23,7 +23,6 @@ btnReset.addEventListener("click", function () {
 
 });
 
-
 // descrese the button
 btnDecrease.addEventListener("click", function () {
     // we want descrese the actuall count
