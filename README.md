@@ -1,1 +1,1 @@
-# counter-js-practice-01
+# practice 01- : counter
