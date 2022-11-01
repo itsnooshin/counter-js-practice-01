@@ -1,8 +1,9 @@
 # Counter
 
-this is a basic project that i used Dom manipulation
+This is an essential project created by Dom Manipulation. There are three options: increasing, resetting, and decreasing.
 
-# Video of this project
-https://user-images.githubusercontent.com/93255365/199254230-cfc3545c-8856-41e1-9476-1a6fe4f2f6bb.mp4
+# project
+![image](https://user-images.githubusercontent.com/93255365/199256382-d3cdd24f-7a2d-40e4-bdbe-d47eb526c9b7.png)
+
 
 
